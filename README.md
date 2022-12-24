@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on HUST
+- 🔭 I’m currently working on ML
 - 🌱 I’m currently learning Mathematics and Informatics
 - 📫 Reach me: github.com/binno22
 <!--
