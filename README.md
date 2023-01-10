@@ -1,5 +1,5 @@
-### Hi there!I'm binno 👋
-- 🔭 I’m currently working on ML
+### Hi everyone!I'm JaySon 👋
+- 🔭 I’m currently working on RiconFan
 - 🌱 I’m currently learning Mathematics and Informatics
 - 📫 Reach me: github.com/binno22
 <!--
